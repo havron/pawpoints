@@ -1,6 +1,6 @@
 .PHONY: dev github
 
-MSG='bork bork bork'
+MSG=bork bork bork
 
 dev:
 	rails server
