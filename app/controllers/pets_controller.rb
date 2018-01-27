@@ -1,6 +1,6 @@
-class Api::V1::PetsController < Api::V1::BaseController
+class PetsController < BaseController
   def index
-    respond_with Pet.all
+
   end
 
   def create
