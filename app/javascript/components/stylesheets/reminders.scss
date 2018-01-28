@@ -1,0 +1,35 @@
+.Reminders {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+
+.Toe {
+  width: 2rem;
+  height: 2rem;
+  padding-top: 0.2rem;
+  padding-right: 0.2rem;
+}
+ 
+#Plus {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 5rem;
+  height: 5rem;
+} 
+
+#PawLeft {
+  position: absolute;
+  right: 4.5rem;
+  bottom: 1rem;
+  .ToeLeft {
+    display: block;
+  }
+}
+
+#PawRight {
+  position: absolute;
+  bottom: 5.2rem;
+  right: 1rem;
+}

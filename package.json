@@ -35,9 +35,11 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
+    "classnames": "^2.2.5",
     "react": "^16.2.0",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.2.0",
+<<<<<<< HEAD
     "react-progress-meter": "^1.1.0",
     "react_ujs": "^2.4.3"
   },
@@ -53,4 +55,9 @@
     "url": "https://github.com/havron/pawpoints/issues"
   },
   "homepage": "https://github.com/havron/pawpoints#readme"
+=======
+    "react-horizontal-timeline": "^1.4.0",
+    "react-icons": "^2.2.7"
+  }
+>>>>>>> 3e4c0061216fcb401f9d1c7d6689ffbda9df78d4
 }

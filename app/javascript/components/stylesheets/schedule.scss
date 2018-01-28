@@ -1,0 +1,32 @@
+td {
+  height: 50px;
+  width: 40px;
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+}
+
+.hourBin.enabled {
+  background: green;
+}
+
+.hourBin, table {
+  z-index: 200;
+}
+
+.hourLabel {
+  text-align: center;
+}
+
+.line {
+  position: absolute;
+  top: 140px;
+  width: 90%;
+  height: 1px;
+  background: black;
+  margin: auto;
+  z-index: -1;
+}
+
+#Schedule {
+  display:table;
+}
