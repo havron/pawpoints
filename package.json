@@ -1,7 +1,7 @@
 {
   "name": "webpack-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack-dashboard -- webpack-dev-server",
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "",
+  "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.5",
@@ -36,6 +36,21 @@
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
-  }
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "react-progress-meter": "^1.1.0",
+    "react_ujs": "^2.4.3"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/havron/pawpoints.git"
+  },
+  "bugs": {
+    "url": "https://github.com/havron/pawpoints/issues"
+  },
+  "homepage": "https://github.com/havron/pawpoints#readme"
 }

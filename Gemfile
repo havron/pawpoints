@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'responders'
 gem 'react-rails'
+gem "react_on_rails", '8.0.0'
 gem 'webpacker'
 
 # Use Capistrano for deployment
